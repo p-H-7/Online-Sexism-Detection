@@ -2,11 +2,15 @@
 NLP Project
 
 Group Members:
-Abhliash Datta - 19CS30001 /br
-Sunanda Mandal - 19CS10060 /br
-Rohit Raj - 19CS10049 /br
-Haasita Pinnepu - 19CS30021 /br
-Vishnu Vardhan - 18CS30022 /br
+Abhliash Datta - 19CS30001
+
+Sunanda Mandal - 19CS10060
+
+Rohit Raj - 19CS10049
+
+Haasita Pinnepu - 19CS30021
+
+Vishnu Vardhan - 18CS30022
 
 Online sexism has become a significant challenge. Today, sexist content may be found and evaluated at scale using automated technologies, but most of these tools just classify information into broad categories without providing any extra information. This project supports the development of more accurate and comprehensible English-language sexism detection models by providing fine-grained classifications for sexist content.
 
